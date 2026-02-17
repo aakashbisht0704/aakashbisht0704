@@ -2,6 +2,8 @@
 
 I make things and put them here. Some are experiments, some grow into software.
 
-[L I N K E D I N](https://linkedin.com/in/aakashbisht1204) <br>
-[E M A I L](mailto:aakashbisht1204@gmail.com) <br>
-[X](https://x.com/whosaakash)
+<p>
+  <a href="https://linkedin.com/in/aakashbisht1204" style="color:inherit;text-decoration:none;">L I N K E D I N</a><br>
+  <a href="mailto:aakashbisht1204@gmail.com" style="color:inherit;text-decoration:none;">E M A I L</a><br>
+  <a href="https://x.com/whosaakash" style="color:inherit;text-decoration:none;">X</a>
+</p>
