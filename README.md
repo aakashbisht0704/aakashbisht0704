@@ -2,26 +2,6 @@
 
 I make things and put them here. Some are experiments, some grow into software.
 
-<div style="display: flex; flex-direction: column; gap: 0; align-items: flex-start;">
-  <a href="https://linkedin.com/in/aakashbisht1204" style="text-decoration: none !important; border: none; outline: none; box-shadow: none; display: inline-block; line-height: 0;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="28" style="display: block; border: none; vertical-align: middle;" />
-    </picture>
-  </a>
-  <a href="mailto:aakashbisht1204@gmail.com" style="text-decoration: none !important; border: none; outline: none; box-shadow: none; display: inline-block; line-height: 0;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
-      <img src="https://skillicons.dev/icons?i=gmail" height="28" style="display: block; border: none; vertical-align: middle;" />
-    </picture>
-  </a>
-  <a href="https://x.com/whosaakash" style="text-decoration: none !important; border: none; outline: none; box-shadow: none; display: inline-block; line-height: 0;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=light">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark">
-      <img src="https://skillicons.dev/icons?i=twitter" height="28" style="display: block; border: none; vertical-align: middle;" />
-    </picture>
-  </a>
-</div>
+[L I N K E D I N](https://linkedin.com/in/aakashbisht1204) •
+[E M A I L](mailto:aakashbisht1204@gmail.com) •
+[X](https://x.com/whosaakash)
