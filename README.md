@@ -3,15 +3,15 @@
 I make things and put them here. Some grow into software.
 
 <p align="left">
-  <a href="https://linkedin.com/in/aakashbisht1204" target="_blank">
-    <img src="https://cdn.simpleicons.org/linked_in/white" height="20"/>
+  <a href="https://linkedin.com/in/aakashbisht1204">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="22">
   </a>
-  &nbsp;
-  <a href="mailto:aakashbisht1204@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/white" height="20"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:aakashbisht1204@gmail.com">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="22">
   </a>
-  &nbsp;
-  <a href="https://x.com/whosaakash" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/white" height="20"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/whosaakash">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="22">
   </a>
 </p>
